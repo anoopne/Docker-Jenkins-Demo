@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "anoopne/devopsclass1"
+    registry = "anoopne/devopsproject"
 
     registryCredential = 'docker-creds'
 
