@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "Welcome to Anoops SimpliLearn\n"
+MESSAGE = "Project is successfully working"
 
 app = Flask(__name__)
 
